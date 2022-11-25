@@ -13,6 +13,7 @@ function App() {
   return (
     <div className='app'>
       <h2>Is anyone here?</h2>
+      <Navbar />
     </div>
   )
 }
