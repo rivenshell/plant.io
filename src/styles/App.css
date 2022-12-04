@@ -1,3 +1,8 @@
 .App {
     background-color: black;
 }
+
+img {
+    display: block;
+    display: flex;
+}
