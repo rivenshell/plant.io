@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function footer() {
-  return (
-    <>
-      Hi
-    </>
-  )
+  return <>Footer</>;
 }
 
-export default footer
+export default footer;

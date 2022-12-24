@@ -1,8 +1,14 @@
 .App {
-    background-color: black;
+  background-color: black;
 }
 
 img {
-    display: block;
-    display: flex;
+  display: block;
+  display: flex;
+}
+
+
+h1 {
+  margin: auto;
+  margin-top: 40px;
 }
