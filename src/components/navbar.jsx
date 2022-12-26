@@ -37,7 +37,7 @@ function navbar() {
                 </a>
               </li>
             </ul>
-            <span class="navbar-text">Navbar text with an inline element</span>
+            <span class="navbar-text"></span>
           </div>
         </div>
       </nav>
