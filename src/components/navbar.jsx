@@ -28,7 +28,7 @@ function navbar() {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Features
+                  Features 2
                 </a>
               </li>
               <li class="nav-item">
