@@ -34,7 +34,7 @@ You can update the `styles/index.css` or create new `.css` files inside `styles/
 
 ### Components
 
-Add more files into your `./src/js/components` or styles folder as you need them and import them into your current files as needed.
+Add more files into your `./src/js/components` or styles folder as you need them and import them into your current files in a as needed basis.
 
 **Note (New changes)**: Components have been converted into functions to support the use of hooks:
 
